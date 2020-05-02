@@ -1,0 +1,182 @@
+[
+    {
+        "map": "airhaven",
+        "enderchests": 3
+    },
+    {
+        "map": "arcwindtemple",
+        "enderchests": 3
+    },
+    {
+        "map": "armadillo",
+        "enderchests": 3
+    },
+    {
+        "map": "asiansky",
+        "enderchests": 3
+    },
+    {
+        "map": "azureisland",
+        "enderchests": 4 
+    },
+    {
+        "map": "cabininthewoods",
+        "enderchests": 2
+    },
+    {
+        "map": "calypsoharbor",
+        "enderchests": 2
+    },
+    {
+        "map": "castle",
+        "enderchests": 3
+    },
+    {
+        "map": "cathedral",
+        "enderchests": 3
+    },
+    {
+        "map": "chroma",
+        "enderchests": 4
+    },
+    {
+        "map": "clockworldisland",
+        "enderchests": 3
+    },
+    {
+        "map": "construction",
+        "enderchests": 3
+    },
+    {
+        "map": "cosmicforay",
+        "enderchests": 4
+    },
+    {
+        "map": "eaglerock",
+        "enderchests": 4
+    },
+    {
+        "map": "fallenbridges",
+        "enderchests": 3
+    },
+    {
+        "map": "forge",
+        "enderchests": 7 
+    },
+    {
+        "map": "forsaken",
+        "enderchests": 3
+    },
+    {
+        "map": "frozencargo",
+        "enderchests": 2
+    },
+    {
+        "map": "funfair",
+        "enderchests": 3
+    },
+    {
+        "map": "hermitsandsclassic",
+        "enderchests": 3
+    },
+    {
+        "map": "hermitsandsrevamped",
+        "enderchests": 3
+    },
+    {
+        "map": "hermitsandsrevisited",
+        "enderchests": 2
+    },
+    {
+        "map": "hollywoodhotel",
+        "enderchests": 3
+    },
+    {
+        "map": "kazamuzotemple",
+        "enderchests": 4
+    },
+    {
+        "map": "metropolis",
+        "enderchests": 3
+    },
+    {
+        "map": "minecity",
+        "enderchests": 4
+    },
+    {
+        "map": "minevilleclassic",
+        "enderchests": 4
+    },
+    {
+        "map": "minevillerevamped",
+        "enderchests": 4
+    },
+    {
+        "map": "nightclub",
+        "enderchests": 4
+    },
+    {
+        "map": "pirates",
+        "enderchests": 3
+    },
+    {
+        "map": "precinct",
+        "enderchests": 3
+    },
+    {
+        "map": "puertotereza",
+        "enderchests": 2
+    },
+    {
+        "map": "rooftops",
+        "enderchests": 4
+    },
+    {
+        "map": "seraphim",
+        "enderchests": 2
+    },
+    {
+        "map": "skylands",
+        "enderchests": 2
+    },
+    {
+        "map": "skyship",
+        "enderchests": 2
+    },
+    {
+        "map": "spectral",
+        "enderchests": 3
+    },
+    {
+        "map": "springfalls",
+        "enderchests": 1
+    },
+    {
+        "map": "station",
+        "enderchests": 3
+    },
+    {
+        "map": "studio",
+        "enderchests": 4 
+    },
+    {
+        "map": "thecanal",
+        "enderchests": 2
+    },
+    {
+        "map": "theshire",
+        "enderchests": 3
+    },
+    {
+        "map": "welcometowoodbury",
+        "enderchests": 2
+    },
+    {
+        "map": "westwood",
+        "enderchests": 3
+    },
+    {
+        "map": "wonderland",
+        "enderchests": 2
+    }
+]
