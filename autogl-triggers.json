@@ -1,0 +1,72 @@
+[
+  {
+    "mode": "sky",
+    "trigger": {
+      "type": "CHAT",
+      "trigger": "\\s+Welcome to SkyWars(?: Solo| Duos| Teams)?, \\w+"
+    }
+  },
+  {
+    "mode": "bed",
+    "trigger": {
+      "type": "CHAT",
+      "trigger": "\\s+Welcome to Hive BedWars!\\s*"
+    }
+  },
+  {
+    "mode": "dr",
+    "trigger": {
+      "type": "CHAT",
+      "trigger": "\\s+You are a (?:RUNNER|DEATH)!"
+    }
+  },
+  {
+    "mode": "hide",
+    "trigger": {
+      "type": "CHAT",
+      "trigger": "\\s+You are a (?:HIDER|SEEKER)! (\\w+)"
+    }
+  },
+  {
+    "mode": "grav",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Gravity"
+    }
+  },
+  {
+    "mode": "draw",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game is Starting!"
+    }
+  },
+  {
+    "mode": "shu",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "➎"
+    }
+  },
+  {
+    "mode": "sp",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "➊"
+    }
+  },
+  {
+    "mode": "bp",
+    "trigger": {
+      "type": "SUBTITLE",
+      "trigger": "Time to DANCE!"
+    }
+  },
+  {
+    "mode": "timv",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Trouble in Mineville"
+    }
+  }
+]

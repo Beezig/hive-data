@@ -1,0 +1,72 @@
+[
+  {
+    "mode": "sky",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "bed",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "dr",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "hide",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "grav",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "You finished!|Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "draw",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "shu",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "sp",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "bp",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  },
+  {
+    "mode": "timv",
+    "trigger": {
+      "type": "TITLE",
+      "trigger": "Game\\. OVER!"
+    }
+  }
+]
