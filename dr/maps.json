@@ -1,0 +1,202 @@
+{
+  "highcity": {
+    "checkpoints": 6,
+    "speedrun": "5wkk0xvw",
+    "hive": "DR_1"
+  },
+  "alaranruins": {
+    "checkpoints": 6,
+    "speedrun": "nwlg0mo9",
+    "hive": "SuperSecretProject2"
+  },
+  "theprison": {
+    "checkpoints": 5,
+    "speedrun": "29vmg6q9",
+    "hive": "DRD5"
+  },
+  "legacy": {
+    "checkpoints": 6,
+    "speedrun": "xd0kp1m9",
+    "hive": "DR_Legacy_Final"
+  },
+  "cave": {
+    "checkpoints": 6,
+    "speedrun": "rw6q21pd",
+    "hive": "DR_Cave"
+  },
+  "western": {
+    "checkpoints": 7,
+    "speedrun": "n93qkx2w",
+    "hive": "DR_Western"
+  },
+  "junglebase": {
+    "checkpoints": 7,
+    "speedrun": "z98rpord",
+    "hive": "DR_JungleBase_Beta"
+  },
+  "sonic": {
+    "checkpoints": 6,
+    "speedrun": "rdno3m5w",
+    "hive": "DR_Sonic"
+  },
+  "ice": {
+    "checkpoints": 8,
+    "speedrun": "gdrpr0ew",
+    "hive": "DR_Ice"
+  },
+  "alienfacility": {
+    "checkpoints": 7,
+    "speedrun": "xd0kmg09",
+    "hive": "DR_Alien_Facility"
+  },
+  "interstellar": {
+    "checkpoints": 8,
+    "speedrun": "xd0kr449",
+    "hive": "DR_Interstellar"
+  },
+  "riviera": {
+    "checkpoints": 8,
+    "speedrun": "nwlgxrg9",
+    "hive": "DR_Renaissance"
+  },
+  "toxicfactory": {
+    "checkpoints": 6,
+    "speedrun": "592j4r7w",
+    "hive": "DR_ToxicFactory"
+  },
+  "yagrium": {
+    "checkpoints": 7,
+    "speedrun": "5d77qqqd",
+    "hive": "DR_Yagrium"
+  },
+  "elements": {
+    "checkpoints": 7,
+    "speedrun": "z98joqrw",
+    "hive": "DR_Elements"
+  },
+  "school": {
+    "checkpoints": 6,
+    "speedrun": "ldy1qrpd",
+    "hive": "DR_School"
+  },
+  "expelliarmus": {
+    "checkpoints": 7,
+    "speedrun": "xd10qzy9",
+    "hive": "DR_Expelliarmus"
+  },
+  "wahoo": {
+    "checkpoints": 7,
+    "speedrun": "rdq02m1w",
+    "hive": "DR_Wahoo"
+  },
+  "zoo": {
+    "checkpoints": 6,
+    "speedrun": "495888m9",
+    "hive": "DR_Zoo"
+  },
+  "ilvery": {
+    "checkpoints": 7,
+    "speedrun": "ldyp01rd",
+    "hive": "DR_Ilvery"
+  },
+  "throwback": {
+    "checkpoints": 6,
+    "speedrun": "ywe8p34w",
+    "hive": "DR_Throwback"
+  },
+  "vahltir": {
+    "checkpoints": 5,
+    "speedrun": "69z4064w",
+    "hive": "DR_Vahltir"
+  },
+  "mine": {
+    "checkpoints": 7,
+    "speedrun": "69z4kxgw",
+    "hive": "DR_Mine"
+  },
+  "sweetTooth": {
+    "checkpoints": 7,
+    "speedrun": "r9g3vrpw",
+    "hive": "DR_SweetTooth"
+  },
+  "enchantedlagoon": {
+    "checkpoints": 7,
+    "speedrun": "z98627gd",
+    "hive": "DR_EnchantedLagoon"
+  },
+  "starbase": {
+    "checkpoints": 8,
+    "speedrun": "69z34nld",
+    "hive": "DR_Starbase"
+  },
+  "windfall": {
+    "checkpoints": 7,
+    "speedrun": "29v3263w",
+    "hive": "DR_Windfall"
+  },
+  "skylands": {
+    "checkpoints": 7,
+    "speedrun": "ldyyqrjd",
+    "hive": "DR_SkyLands"
+  },
+  "tobeeornottobee": {
+    "checkpoints": 7,
+    "speedrun": "y9mj1xz9",
+    "hive": "DR_ToBeeOrNotToBee"
+  },
+  "jadecoast": {
+    "checkpoints": 7,
+    "speedrun": "z986gnrd",
+    "hive": "DR_JadeCoast"
+  },
+  "snowfall": {
+    "checkpoints": 7,
+    "speedrun": "4956g4jd",
+    "hive": "DR_Snowfall"
+  },
+  "crystalnight": {
+    "checkpoints": 6,
+    "speedrun": "29v3nelw",
+    "hive": "DR_CrystalNight"
+  },
+  "safarivalley": {
+    "checkpoints": 7,
+    "speedrun": "rdn0el7w",
+    "hive": "DR_Safari"
+  },
+  "temple": {
+    "checkpoints": 6,
+    "speedrun": "kwjz77r9",
+    "hive": "DR_Temple"
+  },
+  "higherdimensions": {
+    "checkpoints": 9,
+    "speedrun": "r9g442q9",
+    "hive": "DR_HigherDimensions"
+  },
+  "seasons": {
+    "checkpoints": 7,
+    "speedrun": "z987g7rw",
+    "hive": "DR_Seasons"
+  },
+  "gravity": {
+    "checkpoints": 6,
+    "speedrun": "rdq7x6k9",
+    "hive": "DR_Gravity"
+  },
+  "viaduct": {
+    "checkpoints": 8,
+    "speedrun": "owo6zgow",
+    "hive": "DR_Spiral"
+  },
+  "castle": {
+    "checkpoints": 7,
+    "speedrun": "49557v09",
+    "hive": "DR_Castle"
+  },
+  "venice": {
+    "checkpoints": 6,
+    "speedrun": "xd166m59",
+    "hive": "DR_Venice"
+  }
+}
