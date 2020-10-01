@@ -16,8 +16,8 @@
   {
     "mode": "dr",
     "trigger": {
-      "type": "TITLE",
-      "trigger": "Game\\. OVER!"
+      "type": "SUBTITLE",
+      "trigger": "You are now spectating!"
     }
   },
   {
