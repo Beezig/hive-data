@@ -16,8 +16,8 @@
   {
     "mode": "dr",
     "trigger": {
-      "type": "CHAT",
-      "trigger": "\\s+You are a (?:RUNNER|DEATH)!"
+      "type": "SUBTITLE",
+      "trigger": "Prepare to run!"
     }
   },
   {
