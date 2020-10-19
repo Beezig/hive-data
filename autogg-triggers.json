@@ -21,6 +21,13 @@
     }
   },
   {
+    "mode": "dr",
+    "trigger": {
+      "type": "SUBTITLE",
+      "trigger": "You are now spectating!"
+    }
+  },
+  {
     "mode": "hide",
     "trigger": {
       "type": "TITLE",
