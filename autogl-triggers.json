@@ -24,7 +24,7 @@
     "mode": "hide",
     "trigger": {
       "type": "CHAT",
-      "trigger": "\\s+You are a (?:HIDER|SEEKER)! \\(.*\\)"
+      "trigger": "\\s+You are a (?:HIDER|SEEKER)!(?: \\(.*\\))?"
     }
   },
   {
